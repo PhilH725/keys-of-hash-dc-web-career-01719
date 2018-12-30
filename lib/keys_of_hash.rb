@@ -3,7 +3,7 @@ class Hash
     if arguments = 'Paname'
       ["red-footed tortoise"]
     elsif arguments = 'Madagascar'
-      ['species1', 'species2']
+      ["aye-aye", "tomato frog"]
     end
   end
 end
