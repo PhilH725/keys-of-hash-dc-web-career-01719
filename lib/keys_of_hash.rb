@@ -5,6 +5,8 @@ class Hash
       ["red-footed tortoise"]
     elsif arguments = 'Madagascar'
       ["aye-aye", "tomato frog"]
+    elsif arguments = 'Australia'
+      []
     end
   end
 end
