@@ -4,5 +4,6 @@ class Hash
       ["red-footed tortoise"]
     elsif arguments = 'Madagascar'
       ['species1', 'species2']
+    end
   end
 end
