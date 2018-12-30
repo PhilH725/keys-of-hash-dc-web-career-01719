@@ -6,7 +6,7 @@ class Hash
     elsif arguments = 'Madagascar'
       ["aye-aye", "tomato frog"]
     elsif arguments = 'Australia'
-      []
+      ["sugar glider", "kangaroo", "koala"]
     end
   end
 end
